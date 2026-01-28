@@ -19,7 +19,7 @@ File handling (optional) → save results
 
 Loops & Conditionals → validate input and process multiple stocks
 
-📊 Sample Output
+## Sample Output
 Stock #1: AAPL
 Quantity of AAPL: 5
 AAPL: 5 shares x $180 = $900
@@ -48,3 +48,4 @@ Save in CSV format for Excel analysis
 👩‍💻 Author
 
 Kokila
+
