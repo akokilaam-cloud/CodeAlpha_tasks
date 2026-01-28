@@ -7,7 +7,7 @@ This project implements a simple extended rule-based chatbot using Python. The c
 
 To build a chatbot that demonstrates basic Python concepts like functions, loops, and if-elif-else statements through user interaction.
 
-📋 Features
+# Features
 
 Handles multiple user inputs (greetings, questions, exit)
 
@@ -58,3 +58,4 @@ This project shows how a basic rule-based chatbot can be built using Python. It 
 
 
 Author: Kokila
+
